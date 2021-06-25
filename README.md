@@ -29,6 +29,8 @@ Se aceptaran proyectos desarrollados con cualquier tecnología que permita visua
 
 ## Entrega
    Se aceptarán distintos tipos de formatos abiertos tales como jpg, png, GIF, mp4, HTML o URL públicas donde se pueda consumir el desarrollo.
+   
+   **Es condición necesaria que la cantidad de visualizaciones presentadas sea menor o igual a 3. En caso de presentar más de 3 visualizaciones, se tendrán únicamente en cuenta las primeras 3.**
  
  ## Datos :file_folder:
 
