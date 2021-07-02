@@ -38,6 +38,7 @@ Se aceptaran proyectos desarrollados con cualquier tecnología que permita visua
 
 * [Campus Party Digital Edition - Argentina](https://digital.campus-party.org/argentina/)
 * [Bases y condiciones](https://drive.google.com/file/d/1ND9V-XvLQgkSGZXpgk_hWjvgSDYEM_e4/view)
+* [Inscripción](https://docs.google.com/forms/d/e/1FAIpQLSchI6rmCK5D9ZE9R91Jbxzjl3qB8wjH562DgAnFCEqUReV4pQ/viewform)
 
 ## Datasets :open_file_folder:
 Para el desarrollo del recomendador, se proveen los siguientes conjuntos de datos:
