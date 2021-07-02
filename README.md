@@ -37,7 +37,6 @@ Se aceptaran proyectos desarrollados con cualquier tecnología que permita visua
 ### Links importantes :grey_exclamation:
 
 * [Campus Party Digital Edition - Argentina](https://digital.campus-party.org/argentina/)
-* [Registro Datathon Telecom - DataViz](https://docs.google.com/forms/d/1i5FFLqflvZ7LB8Bt_mshW3FjO9rzeFGGBFWr0QHpZio)
 * [Bases y condiciones](https://drive.google.com/file/d/1ND9V-XvLQgkSGZXpgk_hWjvgSDYEM_e4/view)
 
 ## Datasets :open_file_folder:
