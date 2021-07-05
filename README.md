@@ -14,13 +14,14 @@ Se aceptaran proyectos desarrollados con cualquier tecnología que permita visua
 ### Tecnologías abiertas:
         Python (matplotlib, Seaborn, Bokeh, Dash, Flask, plotly, etc)
         R (Shiny, ggplot2, ggplotly, etc.)
-        D3 JS.
+        D3 JS
+        Flourish
 
 ### Otras tecnologías:
         Power Bi* 
         Tableau*
         QlickView*
-        Flourish*
+        
 
 
 
@@ -39,6 +40,7 @@ Se aceptaran proyectos desarrollados con cualquier tecnología que permita visua
 * [Campus Party Digital Edition - Argentina](https://digital.campus-party.org/argentina/)
 * [Bases y condiciones](https://drive.google.com/file/d/1ND9V-XvLQgkSGZXpgk_hWjvgSDYEM_e4/view)
 * [Inscripción](https://docs.google.com/forms/d/e/1FAIpQLSchI6rmCK5D9ZE9R91Jbxzjl3qB8wjH562DgAnFCEqUReV4pQ/viewform)
+* [Slack](https://cpdathaton.slack.com/join/invite/enQtMjIyODk0OTU3Nzg5NC1kMzc5ZDQxNDE5MDU3MTc3ODZlNWRhODMwMTgyNmZlMzY2YTFmOGE0ODM1YzBlZDI2OTFlMjY0Njg0NmE2OGJj)
 * [Link de entrega](https://forms.gle/AUANke251L1Ea3S78)
 
 ## Datasets :open_file_folder:
